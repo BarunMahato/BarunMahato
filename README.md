@@ -19,6 +19,8 @@
 
 
 
+<br />
+
 
 ## ⚡ About Me
 
@@ -39,10 +41,16 @@ const barun = {
 };
 
 ```
---
+
+<br />
+
+
 ## 🧑‍💻 Programming Skills
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" /> </p>
+
+<br />
+
 
 ### 🌐 Development Skills
 
@@ -57,6 +65,9 @@ const barun = {
 ### 🛠️ Tools & Platforms
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" /> </p>
+
+<br />
+
 
 ## 📂 Featured Projects
 
@@ -81,15 +92,25 @@ A full-stack application that handles secure transactions.
 
 📦 Scalable backend architectures
 
+<br />
+
 
 
 ## 📊 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BarunMahato&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarunMahato&theme=tokyonight&hide_border=true" height="165" /> </p>
 
+<br />
+
+
+
 ## 🔥 Top Languages
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarunMahato&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+<br />
+
+
 
 ## 🌍 Connect With Me
 
