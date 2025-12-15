@@ -60,7 +60,7 @@ const barun = {
 
 ### Backend
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb &theme=dark" /> </p>
 
 ### 🛠️ Tools & Platforms
 
