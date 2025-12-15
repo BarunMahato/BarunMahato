@@ -60,6 +60,20 @@ Backend
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" /> </p>
 
+## 📂 Featured Projects
+
+### 💳 **[NextPay]**
+> *Seamless Peer-to-Peer Payments*
+
+A full-stack application that handles secure transactions.
+* **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL.
+* **Key Features:**
+    * Implemented secure authentication using JWT.
+    * Designed a database schema to handle ACID transactions.
+    * Real-time balance updates.
+* 🔗 [**Source Code**]([https://github.com/BarunMahato/NextPay])
+  
+
 🚀 What I Build
 
 ⚙️ Full-stack web applications
@@ -92,15 +106,3 @@ Backend
 
 <p align="center"> <i>Build things. Break things. Learn fast.</i> </p> <!-- ===================== PROFILE FOOTER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" /> </p> 
 
-## 📂 Featured Projects
-
-### 💳 **[NextPay]**
-> *Seamless Peer-to-Peer Payments*
-
-A full-stack application that handles secure transactions.
-* **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL.
-* **Key Features:**
-    * Implemented secure authentication using JWT.
-    * Designed a database schema to handle ACID transactions.
-    * Real-time balance updates.
-* 🔗 [**Source Code**]([https://github.com/BarunMahato/NextPay]) 
