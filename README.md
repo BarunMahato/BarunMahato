@@ -21,10 +21,12 @@ const barun = {
   learning: ["System Design", "Scalable Architectures"],
   location: "Bengaluru, India"
 };
+```
+
 🧑‍💻 Programming Skills
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" /> </p>
 🌐 Development Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,mongodb,firebase&theme=dark" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,mongodb &theme=dark" /> </p>
 🛠️ Tools & Platforms
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" /> </p>
 🚀 What I Build
