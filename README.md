@@ -18,8 +18,6 @@
 
 
 
----
-
 
 
 ## ⚡ About Me
@@ -46,13 +44,13 @@ const barun = {
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" /> </p>
 
-###🌐 Development Skills
+### 🌐 Development Skills
 
-Frontend
+### Frontend
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" /> </p>
 
-Backend
+### Backend
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" /> </p>
 
@@ -68,12 +66,12 @@ Backend
 A full-stack application that handles secure transactions.
 * **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL.
 * **Key Features:**
-    * Implemented secure authentication using JWT.
+    * Implemented secure authentication using Better Auth.
     * Designed a database schema to handle ACID transactions.
     * Real-time balance updates.
 * 🔗 [**Source Code**]([https://github.com/BarunMahato/NextPay])
   
-
+<br />
 ## 🚀 What I Build
 
 ⚙️ Full-stack web applications
