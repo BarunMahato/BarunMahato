@@ -54,7 +54,7 @@ const barun = {
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" /> </p>
 
-🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" /> </p>
 
@@ -72,6 +72,7 @@ A full-stack application that handles secure transactions.
 * 🔗 [**Source Code**]([https://github.com/BarunMahato/NextPay])
   
 <br />
+
 ## 🚀 What I Build
 
 ⚙️ Full-stack web applications
