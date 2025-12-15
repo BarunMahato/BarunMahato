@@ -41,12 +41,12 @@ const barun = {
 };
 
 ```
-
-🧑‍💻 Programming Skills
+--
+## 🧑‍💻 Programming Skills
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" /> </p>
 
-🌐 Development Skills
+###🌐 Development Skills
 
 Frontend
 
@@ -74,7 +74,7 @@ A full-stack application that handles secure transactions.
 * 🔗 [**Source Code**]([https://github.com/BarunMahato/NextPay])
   
 
-##🚀 What I Build
+## 🚀 What I Build
 
 ⚙️ Full-stack web applications
 
@@ -84,15 +84,15 @@ A full-stack application that handles secure transactions.
 
 
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BarunMahato&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarunMahato&theme=tokyonight&hide_border=true" height="165" /> </p>
 
-##🔥 Top Languages
+## 🔥 Top Languages
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarunMahato&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
-##🌍 Connect With Me
+## 🌍 Connect With Me
 
 <p align="center"> <a href="https://www.linkedin.com/in/barun-mahato-181b3037a/"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /> </a> <a href="mailto:mbarun515@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" /> </a> <a href="https://github.com/BarunMahato"> <img src="https://skillicons.dev/icons?i=github&theme=dark" /> </a> </p>
 
