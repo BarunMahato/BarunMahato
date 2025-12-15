@@ -21,11 +21,14 @@ const barun = {
 };
 ```
 🧑‍💻 Programming Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" /> </p>
 🌐 Development Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,mongodb &theme=dark" /> </p>
+Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" /> </p>
+Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" /> </p>
 🛠️ Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" /> </p>
 🚀 What I Build
 ⚙️ Full-stack web applications
 
@@ -36,7 +39,7 @@ const barun = {
 📦 Scalable backend architectures
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BarunMahato&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarunMahato&theme=tokyonight&hide_border=true" height="165"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BarunMahato&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarunMahato&theme=tokyonight&hide_border=true" height="165" /> </p>
 🔥 Top Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarunMahato&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 🌍 Connect With Me
