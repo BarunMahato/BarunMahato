@@ -12,6 +12,7 @@
 ---
 
 ## ⚡ About Me
+
 ```js
 const barun = {
   role: "Software Engineering Student",
@@ -20,7 +21,6 @@ const barun = {
   learning: ["System Design", "Scalable Architectures"],
   location: "Bengaluru, India"
 };
-```
 🧑‍💻 Programming Skills
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" /> </p>
 🌐 Development Skills
@@ -32,7 +32,7 @@ const barun = {
 
 🔐 Secure authentication & REST APIs
 
-💬 Real-time apps using WebSockets
+💬 Real-time applications using WebSockets
 
 📦 Scalable backend architectures
 
