@@ -144,27 +144,14 @@ Secure backend services for an enterprise-style content platform.
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=BarunMahato&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Barun's GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarunMahato&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Barun's most used languages"
-  />
-</p>
+I use GitHub to document production-minded projects focused on backend reliability,
+secure API design, financial transaction processing, and AI-agent automation.
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=BarunMahato&theme=tokyonight&hide_border=true"
-    alt="Barun's GitHub contribution streak"
-  />
-</p>
+- Explore my repositories: [github.com/BarunMahato](https://github.com/BarunMahato?tab=repositories)
+- Review my recent contributions: [GitHub activity](https://github.com/BarunMahato)
+- Current focus: **TypeScript, Node.js, Next.js, PostgreSQL, security, and AI workflows**
 
 ---
 
